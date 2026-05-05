@@ -1,0 +1,11 @@
+- Universal Selector
+* {}
+
+- Element Selector
+h1 {}
+
+- Id Selector
+#myId {}
+
+- Class Selector
+.myClass {}
