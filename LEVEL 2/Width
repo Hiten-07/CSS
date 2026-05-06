@@ -1,0 +1,5 @@
+By default, it sets the content area width of the element.
+
+div {
+	width : 50px;
+	}
