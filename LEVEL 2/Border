@@ -3,3 +3,11 @@ Used to set an element’s border.
 border-width : 2px;
 border-style : solid / dotted / dashed
 border-color : black;
+
+
+shorthand
+border : 2px solid black;
+
+Used to round the corners of an elements outer border edge.
+border-radius : 10px;
+border-radius : 50%
