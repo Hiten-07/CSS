@@ -1,0 +1,3 @@
+visibility : hidden;
+
+Note : when visibility is set to none, space for the element is reserved but for display set to none, no space is reserved or blocked for the element.
