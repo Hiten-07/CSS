@@ -1,0 +1,4 @@
+By default, it sets the content area height of the element.
+div {
+	height : 50px;
+	}
