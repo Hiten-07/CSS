@@ -1,0 +1,5 @@
+Used to set an element’s border.
+
+border-width : 2px;
+border-style : solid / dotted / dashed
+border-color : black;
