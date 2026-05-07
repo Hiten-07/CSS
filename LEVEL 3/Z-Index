@@ -1,0 +1,6 @@
+It decides the stack level of elements.
+overlapping elements with a larger z-index cover those with a smaller one.
+
+z-index : auto(0)
+z-index : 1/2/...
+z-index : -1/-2/...
