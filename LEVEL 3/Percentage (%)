@@ -1,0 +1,4 @@
+It is often used to define a size as a relative to an elements parent object.
+
+width : 33%;
+margin-left : 50%;
