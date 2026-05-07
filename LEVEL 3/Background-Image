@@ -1,0 +1,3 @@
+Used to set an image as background.
+
+background-image : url ("image.jpeg");
