@@ -1,0 +1,6 @@
+It sets how flex items are placed in the flex container, along which axis and direction.
+
+flexbox-direction : row; (default)
+flexbox-direction : row-reverse;
+flexbox-direction : column;
+flexbox-direction : column-reverse;
